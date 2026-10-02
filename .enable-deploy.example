@@ -1,0 +1,1 @@
+Rename this file to .enable-deploy in the Jenkins workspace only after kind and Terraform are installed.
